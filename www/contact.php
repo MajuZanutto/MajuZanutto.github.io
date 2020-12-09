@@ -3,14 +3,14 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Iury Gomes de Oliveira</title>
+    <title>Maria Júlia Silva Zanutto</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <meta name="author" content="Iury Gomes de Oliveira" />
-    <meta name="description" content="Portifólio de trabalhos realizados e formação de Iury Gomes de Oliveira" />
+    <meta name="author" content="Maria Júlia Silva Zanutto" />
+    <meta name="description" content="Portifólio de trabalhos realizados e formação de Maria Júlia Silva Zanutto" />
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
     <link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css" />
